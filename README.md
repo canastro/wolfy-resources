@@ -1,5 +1,5 @@
 # Wolfy
-<div style="text-align:center"><img src="https://github.com/canastro/wolfy-resources/blob/master/The-Wolf-of-Wall-Street.png?raw=true" width="300"></div>
+<p align="center"><img src="https://github.com/canastro/wolfy-resources/blob/master/The-Wolf-of-Wall-Street.png?raw=true" width="300"></p>
 
 ## Goal
 This is a project built for academic reasons only, and its my attempt to gather multiple sources of knowledge and make wiser decisions on when to buy/sell securities.
