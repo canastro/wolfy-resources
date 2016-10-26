@@ -1,5 +1,5 @@
 # Wolfy
-![The Wolfy Of Wall Street](https://github.com/canastro/wolfy-resources/blob/master/The-Wolf-of-Wall-Street.png?raw=true "Wolfy Of Wall Street")
+<img src="https://github.com/canastro/wolfy-resources/blob/master/The-Wolf-of-Wall-Street.png?raw=true" width="300">
 
 ## Goal
 This is a project built for academic reasons only, and its my attempt to gather multiple sources of knowledge and make wiser decisions on when to buy/sell securities.
